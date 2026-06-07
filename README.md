@@ -1,3 +1,4 @@
 # stdy
 https://almeida-cma.github.io/APS_11/
-https://almeida-cma.github.io/APS_AV/
+https://almeida-cma.github.io/APS_AV/avaliacao.html
+https://almeida-cma.github.io/APS_AV/chave.html
